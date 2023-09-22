@@ -10,13 +10,14 @@
     <main>
 
         <div>
-            <a>Documentation</a>
+            <h2>Documentation</h2>
+            <a></a>
         </div>
         <div>
-            <a>Assignments</a>
+            <h2>Assignments</h2>
         </div>
         <div>
-            <a>Tools</a>
+            <h2>Tools</h2>
         </div>
                
     </main>
