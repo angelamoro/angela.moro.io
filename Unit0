@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Web Interface Design</title>
+</head>
+<body>
+    <header>
+        <h1>Unit 0: Introduction</h1>
+    </header>
+    <main>
+
+        <div>
+            <a>Documentation</a>
+        </div>
+        <div>
+            <a>Assignments</a>
+        </div>
+        <div>
+            <a>Tools</a>
+        </div>
+               
+    </main>
+</body>
+</html>
